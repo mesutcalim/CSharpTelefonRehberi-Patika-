@@ -1,0 +1,15 @@
+C:\Users\mesut\Desktop\pratikler\proje-1\obj\Debug\net6.0\proje-1.csproj.AssemblyReference.cache
+C:\Users\mesut\Desktop\pratikler\proje-1\obj\Debug\net6.0\proje-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesut\Desktop\pratikler\proje-1\obj\Debug\net6.0\proje-1.AssemblyInfoInputs.cache
+C:\Users\mesut\Desktop\pratikler\proje-1\obj\Debug\net6.0\proje-1.AssemblyInfo.cs
+C:\Users\mesut\Desktop\pratikler\proje-1\obj\Debug\net6.0\proje-1.csproj.CoreCompileInputs.cache
+C:\Users\mesut\Desktop\pratikler\proje-1\bin\Debug\net6.0\proje-1.exe
+C:\Users\mesut\Desktop\pratikler\proje-1\bin\Debug\net6.0\proje-1.deps.json
+C:\Users\mesut\Desktop\pratikler\proje-1\bin\Debug\net6.0\proje-1.runtimeconfig.json
+C:\Users\mesut\Desktop\pratikler\proje-1\bin\Debug\net6.0\proje-1.dll
+C:\Users\mesut\Desktop\pratikler\proje-1\bin\Debug\net6.0\proje-1.pdb
+C:\Users\mesut\Desktop\pratikler\proje-1\obj\Debug\net6.0\proje-1.dll
+C:\Users\mesut\Desktop\pratikler\proje-1\obj\Debug\net6.0\refint\proje-1.dll
+C:\Users\mesut\Desktop\pratikler\proje-1\obj\Debug\net6.0\proje-1.pdb
+C:\Users\mesut\Desktop\pratikler\proje-1\obj\Debug\net6.0\proje-1.genruntimeconfig.cache
+C:\Users\mesut\Desktop\pratikler\proje-1\obj\Debug\net6.0\ref\proje-1.dll
