@@ -11,7 +11,7 @@ namespace TelefonRehberi{
         public static void OldPhoneBook(){
             Person.Add(new Sabitler(){FirstName = "MESUT",Surname = "ÇALIM", PhoneNumber = "04377899872"});
             Person.Add(new Sabitler(){FirstName = "BERKENT",Surname = "ARICI", PhoneNumber = "06055987996"});
-            Person.Add(new Sabitler(){FirstName = "TUNÇ",Surname = "KÜRTAJ", PhoneNumber = "09876543231"});
+            Person.Add(new Sabitler(){FirstName = "TUNÇ",Surname = "KAŞ", PhoneNumber = "09876543231"});
             Person.Add(new Sabitler(){FirstName = "MUSTAFA",Surname = "TUNÇOLMAYAN", PhoneNumber = "05344321256"});
             Person.Add(new Sabitler(){FirstName = "AHMET",Surname = "SOYMAYAK", PhoneNumber = "09878767665"});
 
